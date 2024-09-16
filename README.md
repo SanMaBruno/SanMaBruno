@@ -1,6 +1,6 @@
 ### Hey 👋 What's up?
 
-I'm Bruno and I'm a Data Scientist
+I'm Bruno San Martín and I'm a Data Scientist
 
 I code with:
 

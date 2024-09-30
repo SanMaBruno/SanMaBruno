@@ -4,14 +4,12 @@ I'm Bruno San Martín and I'm a Data Scientist
 
 I code with:
 
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>&nbsp;
-<img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+<img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>&nbsp;
+<img src="https://img.shields.io/badge/NumPy-3B3B3B?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>&nbsp;
+<img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>&nbsp;
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;
+<img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
